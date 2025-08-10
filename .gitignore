@@ -1,0 +1,42 @@
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Archivos de respaldo
+*.bak
+*.backup
+*~
+
+# Archivos de configuración personal
+config.local.*
+settings.local.*
+
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos M3U temporales o de prueba
+test_*.m3u
+temp_*.m3u
+backup_*.m3u 
