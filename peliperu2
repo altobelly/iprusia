@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="CIENCIA FICCIÓN" tvg-logo="https://image.tmdb.org/t/p/w1280/2cX5gY6FFsJW6ZXi6PLB3zm0vHr.jpg",El Precio del Mañana (2011)
+#EXTINF:-1 group-title="CIENCIA FICCIÓN" tvg-logo="https://image.tmdb.org/t/p/w1280/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg",Aquaman (2018)
 http://192.168.31.157:1935/vod/mp4:Aquaman (2018)1080P Latino.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc6jmV9he1qj07TA2xJhgnX3nnk.jpg",Dos Hermanas (2003)
